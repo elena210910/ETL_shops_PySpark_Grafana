@@ -20,7 +20,7 @@ y después los procesaré, limpiaré, cargaré en bases de datos y realizaré op
 
 ### Instalación de Docker y Docker Compose
 
-1. **Instalación de Docker**: - Descarga e instala  [Dockerfile](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/Docker/Dockerfile).
+1. **Instalación de Dockerfile**: - Descarga e instala  [Dockerfile](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/Docker/Dockerfile).
 2. **Instalación de Docker Compose**: - Descarga e instala [Docker Compose](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/Docker/docker-compose).
 
 
