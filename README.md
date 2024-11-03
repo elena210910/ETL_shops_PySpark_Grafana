@@ -16,7 +16,7 @@ Dado que los datos reales son parte confidencial de la empresa,
 generaré datos realistas de ventas. Luego, cargaré esos datos en una tabla de PostgreSQL, 
 y después los procesaré, limpiaré, cargaré en bases de datos y realizaré operaciones analíticas.
 
-## *Pasos de realizacion*.
+## *Pasos de realizacion*.🚀
 
 ### Instalación de Docker y Docker Compose
 
