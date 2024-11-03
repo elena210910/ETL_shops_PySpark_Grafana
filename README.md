@@ -32,7 +32,7 @@ generar datos, procesar datos, limpiar datos, cargar en PostgreSQL, cargar en Cl
 realizar operaciones analíticas. Las tareas están 
 configuradas para ejecutarse en un orden específico usando operadores de Python.
 
-## Conéctate a la base de datos
+## Conexión a la base de datos
 
 "IMPORTANTE: [Conéctate a la base de datos](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/admin.PNG) a través de ADMIN en la interfaz de AIRFLOW.
 Las contraseñas y otros detalles están especificados en el archivo docker-compose
