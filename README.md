@@ -37,5 +37,10 @@ configuradas para ejecutarse en un orden específico usando operadores de Python
 "IMPORTANTE: [Conéctate a la base de datos](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/admin.PNG) a través de ADMIN en la interfaz de AIRFLOW.
 Las contraseñas y otros detalles están especificados en el archivo docker-compose
 
+## Ejecutamos nuestro DAG en Airflow
 
+Podemos ver cómo nuestras tareas se completaron con éxito!
+
+
+![](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/dag_succes.PNG)
 
