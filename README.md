@@ -28,6 +28,6 @@ y después los procesaré, limpiaré, cargaré en bases de datos y realizaré op
 
 EL script que define un [DAG](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/Dag) en Apache Airflow con siete tareas diferentes: 
 generar datos, procesar datos, limpiar datos, cargar en PostgreSQL, cargar en ClickHouse,
-realizar operaciones analíticas y visualizar los datos en Grafana. Las tareas están 
+realizar operaciones analíticas. Las tareas están 
 configuradas para ejecutarse en un orden específico usando operadores de Python.
 
