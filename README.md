@@ -24,10 +24,18 @@ y después los procesaré, limpiaré, cargaré en bases de datos y realizaré op
 2. **Instalación de Docker Compose**: - Descarga e instala [Docker Compose](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/Docker/docker-compose).
 
 
+
 ### DAG
 
 EL script que define un [DAG](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/Dag) en Apache Airflow con siete tareas diferentes: 
 generar datos, procesar datos, limpiar datos, cargar en PostgreSQL, cargar en ClickHouse,
 realizar operaciones analíticas. Las tareas están 
 configuradas para ejecutarse en un orden específico usando operadores de Python.
+
+## Conéctate a la base de datos
+
+"IMPORTANTE: [Conéctate a la base de datos](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/admin.PNG) a través de ADMIN en la interfaz de AIRFLOW.
+Las contraseñas y otros detalles están especificados en el archivo docker-compose
+
+
 
