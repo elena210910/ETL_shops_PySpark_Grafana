@@ -39,7 +39,9 @@ Las contraseñas y otros detalles están especificados en el archivo docker-comp
 
 ## Ejecutamos nuestro DAG en Airflow
 
-Podemos ver cómo nuestras tareas se completaron con éxito!
+
+**Podemos ver cómo nuestras tareas se completaron con éxito!**
+
 
 
 ![](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/dag_succes.PNG)
