@@ -259,6 +259,6 @@ load_to_clickhouse_task = PythonOperator(
     dag=dag,
 )
 
-# Определение последовательности задач
+# Definición de la secuencia de tareas
 query_postgres_task >> create_table >> generate_sales_data_task >> process_sales_data_task >> aggregate_sales_data_task>> create_clickhouse_table_task >> load_to_clickhouse_task
 
