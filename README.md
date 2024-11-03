@@ -51,13 +51,16 @@ Las contraseñas y otros detalles están especificados en el archivo docker-comp
 ### Y ahora, veamos los resultados..
 
 1. Ejemplo de datos generados - [sales_data.csv](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/ej_csv.PNG)
+   
 2. Los datos cargados en [PostgreSQL](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/postgres.PNG) (en un total son dos tablas).
+   
 3. CLickHouse - Atreves de una consulta simple de SQL (SELECT *
                                                        FROM aggregated_sales_data asd 
                                                        ORDER BY product_id 
                                                        LIMIT 10)
- podemos observar q datos han sido [cargados](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/click_tab.PNG).
-4.Visualicemos los datos obtenidos en GRAFANA.
-Conectémonos a la tabla en ClickHouse - Veamos en qué región están los compradores más activos 🚀
+   podemos observar q datos han sido [cargados](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/click_tab.PNG).
+
+4. Visualicemos los datos obtenidos en GRAFANA.
+   Conectémonos a la tabla en ClickHouse - Veamos en qué región están los compradores más activos 🚀
 
 
