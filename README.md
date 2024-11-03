@@ -60,7 +60,7 @@ Las contraseñas y otros detalles están especificados en el archivo docker-comp
                                                        LIMIT 10)
    podemos observar q datos han sido [cargados](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/click_tab.PNG).
 
-4. Visualicemos los datos obtenidos en GRAFANA.
+4. Visualicemos los datos obtenidos en [GRAFANA](https://github.com/elena210910/ETL_shops_PySpark_Grafana/blob/main/chart_grafana.PNG).
    Conectémonos a la tabla en ClickHouse - Veamos en qué región están los compradores más activos 🚀
 
 
